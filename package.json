@@ -1,0 +1,16 @@
+{
+  "name": "mqttjs-example",
+  "version": "1.0.0",
+  "description": "mqtt websocket using MQTT.js lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ludin Nento",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.1.0",
+    "inherits": "^2.0.4",
+    "mqtt": "^4.1.0"
+  }
+}
